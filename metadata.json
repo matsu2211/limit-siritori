@@ -1,0 +1,8 @@
+{
+  "name": "しりとりメーカー",
+  "description": "誰でも直感的に遊べる、自由に縛りルールをカスタマイズできるしりとりツール",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
